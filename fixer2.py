@@ -1,3 +1,5 @@
+#slightly modified from: https://codereview.stackexchange.com/questions/152752/read-hex-from-file-and-convert-to-decimal
+
 #this was copied from Learn Python the Hard way exercise.
 from sys import argv
 from os.path import exists
